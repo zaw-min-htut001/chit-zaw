@@ -14,7 +14,7 @@
 
             <nav class="nav2">
         <ul class="closed">
-          <li><a href="location.reload()" @click.prevent="navigateTo('#home')"><span></span>Home</a></li>
+          <li><a href="#home" @click.prevent="navigateTo('#home')"><span></span>Home</a></li>
           <li><a href="#date" @click.prevent="navigateTo('#date')"><span></span>OurDay</a></li>
           <li><a href="#story" @click.prevent="navigateTo('#story')"><span></span>OurStory</a></li>
           <li><a href="#myGirl" @click.prevent="navigateTo('#myGirl')"><span></span>OurGallery</a></li>
@@ -46,7 +46,20 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="slide-con">
-                                  <img src="/src/assets/image/img1.jpeg" alt="">
+                                  <img src="/src/assets/image/photo5.jpeg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/chit1.jpeg" alt="">
                                     <div class="slide-details">
                                         <div class="movie-info">
                                             <h2 class="movie-name" title="">
@@ -72,7 +85,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="slide-con">
-                                  <img src="/src/assets/image/img1.jpeg" alt="">
+                                  <img src="/src/assets/image/chit5.jpg" alt="">
                                     <div class="slide-details">
                                         <div class="movie-info">
                                             <h2 class="movie-name" title="">
@@ -85,7 +98,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="slide-con">
-                                  <img src="/src/assets/image/img1.jpeg" alt="">
+                                  <img src="/src/assets/image/chit44.jpg" alt="">
                                     <div class="slide-details">
                                         <div class="movie-info">
                                             <h2 class="movie-name" title="">
@@ -98,7 +111,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="slide-con">
-                                  <img src="/src/assets/image/img1.jpeg" alt="">
+                                  <img src="/src/assets/image/photo4.jpeg" alt="">
                                     <div class="slide-details">
                                         <div class="movie-info">
                                             <h2 class="movie-name" title="">
@@ -111,25 +124,13 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="slide-con">
-                                  <img src="/src/assets/image/img1.jpeg" alt="">
+                                  <img src="/src/assets/image/photo15.jpeg" alt="">
                                     <div class="slide-details">
                                         <div class="movie-info">
                                             <h2 class="movie-name" title="">
                                                 Happy Anniversary
                                             </h2>
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="slide-con">
-                                    <img src="/src/assets/image/img1.jpeg" alt="">
-                                    <div class="slide-details">
-                                        <div class="movie-info">
-                                            <h2 class="movie-name" title="">
-                                                Happy Anniversary
-                                            </h2>
                                         </div>
                                     </div>
                                 </div>
@@ -166,7 +167,7 @@
                         <h2>Together Since</h2>
                         <h4 class="anniDate">7<sup>th</sup> Aug , 2023</h4>
                         <div class="type-day">
-                            <span class="iloveu">Happy Anniversary!</span>
+                            <h4 class="iloveu">Happy Anniversary!</h4>
                             <h2 id="multipleStrings"></h2>
                             <h2>We have been together</h2>
                             <!-- <span id="demo"></span> -->
@@ -195,7 +196,7 @@
                         </div>
                     </div>
                     <div class="col col-main">
-                        <img src="/src/assets/image/img3.jpeg" style="--c: #668284;--b:1px;--s: 18px" alt="an old car">
+                        <img src="/src/assets/image/photo1.jpg" style="--c: #668284;--b:1px;--s: 18px" alt="an old car">
                     </div>
                 </div>
             </div>
@@ -297,18 +298,18 @@
                 <div class="slide">
                     <div class="marquee">
                         <div class="marquee__group">
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img4.jpeg' alt=''>
-                            <img src='/src/assets/image/img4.jpeg' alt=''>
+                            <img src='/src/assets/image/photo11.jpeg' alt=''>
+                            <img src='/src/assets/image/photo12.jpeg' alt=''>
+                            <img src='/src/assets/image/photo13.jpeg' alt=''>
+                            <img src='/src/assets/image/photo14.jpeg' alt=''>
+                            <img src='/src/assets/image/photo15.jpeg' alt=''>
                         </div>
 
                         <div aria-hidden="true" class="marquee__group">
                             <img src='/src/assets/image/img1.jpeg' alt=''>
+                            <img src='/src/assets/image/img2.jpg' alt=''>
                             <img src='/src/assets/image/img3.jpeg' alt=''>
-                            <img src='/src/assets/image/img5.jpeg' alt=''>
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
+                            <img src='/src/assets/image/img4.jpeg' alt=''>
                             <img src='/src/assets/image/img5.jpeg' alt=''>
                         </div>
                     </div>
@@ -323,11 +324,11 @@
                         </div>
 
                         <div aria-hidden="true" class="marquee__group">
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img2.jpg' alt=''>
-                            <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img5.jpeg' alt=''>
+                            <img src='/src/assets/image/chit1.jpeg' alt=''>
+                            <img src='/src/assets/image/chit2.jpg' alt=''>
+                            <img src='/src/assets/image/chit44.jpg' alt=''>
+                            <img src='/src/assets/image/chit5.jpg' alt=''>
+                            <img src='/src/assets/image/photo2.jpeg' alt=''>
                         </div>
                     </div>
                 </div>
@@ -360,6 +361,9 @@ export default {
     },
     navigateTo(sectionId) {
       this.activeSection = sectionId;
+      if(sectionId == '#home'){
+        location.reload();
+      };
       this.closeNav();
     },
   },
