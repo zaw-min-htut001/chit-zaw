@@ -300,34 +300,34 @@
                             <img src='/src/assets/image/img1.jpeg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='./image/img4.jpeg' alt=''>
-                            <img src='./image/img_11.jpeg' alt=''>
+                            <img src='/src/assets/image/img4.jpeg' alt=''>
+                            <img src='/src/assets/image/img_11.jpeg' alt=''>
                         </div>
 
                         <div aria-hidden="true" class="marquee__group">
-                            <img src='./image/img1.jpeg' alt=''>
-                            <img src='./image/img3.jpeg' alt=''>
-                            <img src='./image/img5.jpeg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='./image/img_5.jpeg' alt=''>
+                            <img src='/src/assets/image/img3.jpeg' alt=''>
+                            <img src='/src/assets/image/img5.jpeg' alt=''>
+                            <img src='/src/assets/image/img1.jpeg' alt=''>
+                            <img src='/src/assets/image/img_5.jpeg' alt=''>
                         </div>
                     </div>
 
                     <div class="marquee marquee--reverse">
                         <div class="marquee__group">
-                            <img src='./image/img5.jpeg' alt=''>
-                            <img src='./image/img1.jpeg' alt=''>
-                            <img src='./image/img2.jpg' alt=''>
-                            <img src='./image/img3.jpeg' alt=''>
-                            <img src='./image/img4.jpeg' alt=''>
+                            <img src='/src/assets/image/img5.jpeg' alt=''>
+                            <img src='/src/assets/image/img1.jpeg' alt=''>
+                            <img src='/src/assets/image/img2.jpg' alt=''>
+                            <img src='/src/assets/image/img3.jpeg' alt=''>
+                            <img src='/src/assets/image/img4.jpeg' alt=''>
                         </div>
 
                         <div aria-hidden="true" class="marquee__group">
-                            <img src='./image/img_11.jpeg' alt=''>
+                            <img src='/src/assets/image/img_11.jpeg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='./image/img_13.jpg' alt=''>
+                            <img src='/src/assets/image/img_13.jpg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='./image/img_5.jpeg' alt=''>
+                            <img src='/src/assets/image/img_5.jpeg' alt=''>
                         </div>
                     </div>
                 </div>
