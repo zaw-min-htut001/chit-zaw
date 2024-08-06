@@ -142,14 +142,14 @@
                 <!-- Special Anni Day -->
                 <div class="anni-container ">
                     <div class="anni-section z-indexs row">
-                        <p>
+                        <h2>
                             <span>&#x2665</span> Candlelight, laughter, and whispered promises painted our one-year
                             anniversary a masterpiece of love. <span>&#x2665</span>
-                        </p>
+                        </h2>
                     </div>
                     <div class="anni-date-section z-indexs row">
                         <p><span>&#9825</span> Save The Date <span>&#9825</span> </p><br />
-                        <p class="anni-date calligraffitti">7 August , 2023</p>
+                        <h4 class="anni-date">7 August , 2023</h4>
                     </div>
                 </div>
             </div>
@@ -159,37 +159,37 @@
         <section :class="['#date' === activeSection ? 'active' : 'hidden']" class="anniDay-container align-item-center z-indexs ">
             <div class="container">
                 <div class="typing">
-                    <p>Chit Kabyar & Zaw Min</p>
+                    <h4>Chit Kabyar & Zaw Min</h4>
                 </div>
                 <div class="layout">
                     <div class="col col-complementary" role="complementary">
-                        <span>Together Since</span><br />
-                        <span class="anniDate calligraffitti">7<sup>th</sup> Aug , 2023</span>
+                        <h2>Together Since</h2>
+                        <h4 class="anniDate">7<sup>th</sup> Aug , 2023</h4>
                         <div class="type-day">
-                            <span class="iloveu calligraffitti">Happy Anniversary!</span><br />
-                            <span id="multipleStrings"></span><br>
-                            <span>We have been together</span><br />
-                            <span id="demo"></span>
+                            <span class="iloveu">Happy Anniversary!</span>
+                            <h2 id="multipleStrings"></h2>
+                            <h2>We have been together</h2>
+                            <!-- <span id="demo"></span> -->
                             <div class="countdown">
                                 <div class="time">
                                     <span class="years"></span>
-                                    <div class="smalltext">Years</div>
+                                    <h4 class="smalltext">Years</h4>
                                 </div>
                                 <div class="time">
                                     <span class="days"></span>
-                                    <div class="smalltext">Days</div>
+                                    <h4 class="smalltext">Days</h4>
                                 </div>
                                 <div class="time">
                                     <span class="hours"></span>
-                                    <div class="smalltext">Hours</div>
+                                    <h4 class="smalltext">Hours</h4>
                                 </div>
                                 <div class="time">
                                     <span class="minutes"></span>
-                                    <div class="smalltext">Minutes</div>
+                                    <h4 class="smalltext">Minutes</h4>
                                 </div>
                                 <div class="time">
                                     <span class="seconds"></span>
-                                    <div class="smalltext">Seconds</div>
+                                    <h4 class="smalltext">Seconds</h4>
                                 </div>
                             </div>
                         </div>

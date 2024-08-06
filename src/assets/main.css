@@ -775,8 +775,8 @@ span {
     font-size: 30px;
   }
 
-  .anni-date-section p {
-    font-size: 15px;
+  .anni-date-section h2 {
+    font-weight: lighter;
   }
 
   .anni-section {
@@ -819,6 +819,9 @@ span {
 
   .smalltext {
     font-size: 10px !important;
+  }
+  .type-day h2 {
+    font-size: 20px;
   }
 }
 
@@ -869,7 +872,7 @@ span {
   .typing {
     text-align: center;
     margin-bottom: 20px;
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .anni-container {
