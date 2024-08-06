@@ -309,7 +309,7 @@
                             <img src='/src/assets/image/img3.jpeg' alt=''>
                             <img src='/src/assets/image/img5.jpeg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img_5.jpeg' alt=''>
+                            <img src='/src/assets/image/img5.jpeg' alt=''>
                         </div>
                     </div>
 
@@ -323,11 +323,11 @@
                         </div>
 
                         <div aria-hidden="true" class="marquee__group">
-                            <img src='/src/assets/image/img4.jpeg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img_13.jpg' alt=''>
                             <img src='/src/assets/image/img1.jpeg' alt=''>
-                            <img src='/src/assets/image/img_5.jpeg' alt=''>
+                            <img src='/src/assets/image/img2.jpg' alt=''>
+                            <img src='/src/assets/image/img1.jpeg' alt=''>
+                            <img src='/src/assets/image/img5.jpeg' alt=''>
                         </div>
                     </div>
                 </div>
