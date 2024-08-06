@@ -135,6 +135,97 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/photo5.jpeg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/chit1.jpeg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/img1.jpeg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/chit5.jpg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/chit44.jpg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/photo4.jpeg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="slide-con">
+                                  <img src="/src/assets/image/photo15.jpeg" alt="">
+                                    <div class="slide-details">
+                                        <div class="movie-info">
+                                            <h2 class="movie-name" title="">
+                                                Happy Anniversary
+                                            </h2>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
