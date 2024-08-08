@@ -268,10 +268,6 @@
                                     <h4 class="smalltext">Years</h4>
                                 </div>
                                 <div class="time">
-                                    <span class="days"></span>
-                                    <h4 class="smalltext">Days</h4>
-                                </div>
-                                <div class="time">
                                     <span class="hours"></span>
                                     <h4 class="smalltext">Hours</h4>
                                 </div>
